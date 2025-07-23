@@ -26,18 +26,21 @@ cd messy-migration
 ```
 
 Install dependencies:
-```pip install -r requirements.txt
+```
+pip install -r requirements.txt
 ```
 
 ## Running the Application
 
 Initialize the database/data storage (if required):
-```python init_db.py
+```
+python init_db.py
 ```
 
 
 Start the API server:
-```python app.py
+```
+python app.py
 ```
 
 
